@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZaMasterServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd0463e2d39978ba51dfd2eacddbf9e0020c8c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZaMasterServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZaMasterServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
